@@ -1,0 +1,9 @@
+/home/zzg/cpp/object_memory/CMakeFiles/edit_cache.dir
+/home/zzg/cpp/object_memory/CMakeFiles/testheap.dir
+/home/zzg/cpp/object_memory/CMakeFiles/object_memory.dir
+/home/zzg/cpp/object_memory/CMakeFiles/rebuild_cache.dir
+/home/zzg/cpp/object_memory/CMakeFiles/testmalloc.dir
+/home/zzg/cpp/object_memory/CMakeFiles/testnew.dir
+/home/zzg/cpp/object_memory/CMakeFiles/testblock.dir
+/home/zzg/cpp/object_memory/CMakeFiles/teststack.dir
+/home/zzg/cpp/object_memory/CMakeFiles/testarray.dir

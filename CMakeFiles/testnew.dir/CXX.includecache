@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzg/cpp/object_memory/test_new/a.h
+iostream
+-
+
+/home/zzg/cpp/object_memory/test_new/main.cpp
+a.h
+/home/zzg/cpp/object_memory/test_new/a.h
+

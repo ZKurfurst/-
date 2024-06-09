@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/testheap.dir/test_heap/main.cpp.o -c /home/zzg/cpp/object_memory/test_heap/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_heap/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/object_memory.dir/main.cpp.o -c /home/zzg/cpp/object_memory/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/testmalloc.dir/test_malloc/main.cpp.o -c /home/zzg/cpp/object_memory/test_malloc/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_malloc/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/testnew.dir/test_new/main.cpp.o -c /home/zzg/cpp/object_memory/test_new/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_new/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/testblock.dir/test_block/main.cpp.o -c /home/zzg/cpp/object_memory/test_block/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_block/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/teststack.dir/test_stack/main.cpp.o -c /home/zzg/cpp/object_memory/test_stack/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_stack/main.cpp"
+},
+{
+  "directory": "/home/zzg/cpp/object_memory",
+  "command": "/usr/bin/c++    -I/home/zzg/cpp/object_memory/.  -g   -std=gnu++11 -o CMakeFiles/testarray.dir/test_array/main.cpp.o -c /home/zzg/cpp/object_memory/test_array/main.cpp",
+  "file": "/home/zzg/cpp/object_memory/test_array/main.cpp"
+}
+]

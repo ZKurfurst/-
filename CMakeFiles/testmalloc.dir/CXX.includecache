@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzg/cpp/object_memory/test_malloc/main.cpp
+test_malloc/a.h
+/home/zzg/cpp/object_memory/test_malloc/test_malloc/a.h
+
+object/allocator.h
+stdexcept
+-
+
+object/allocator/malloc_allocator.h
+object/allocator.h
+object/allocator/object/allocator.h
+
+object/object_pool.h
+stdexcept
+-
+
+test_malloc/a.h
+iostream
+-
+object/object_pool.h
+test_malloc/object/object_pool.h
+object/allocator/malloc_allocator.h
+test_malloc/object/allocator/malloc_allocator.h
+

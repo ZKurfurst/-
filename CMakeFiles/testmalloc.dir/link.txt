@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/testmalloc.dir/test_malloc/main.cpp.o  -o testmalloc -rdynamic 

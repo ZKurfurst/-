@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/testarray.dir/test_array/main.cpp.o  -o testarray -rdynamic 
